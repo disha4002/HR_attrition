@@ -37,6 +37,8 @@ The insights generated from this dashboard can help organizations:
 - Monitor department-wise attrition to allocate HR resources effectively.
 - Enable faster decision-making using interactive visualizations instead of manual reporting.
 
+  
+
 
 
 
